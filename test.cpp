@@ -6,5 +6,5 @@ void main ()
 	}
 	printf(%d%d;1,2);
 	printf(%d%d;2,3);
-	
+	printf(%d%d;4,5);
 }
